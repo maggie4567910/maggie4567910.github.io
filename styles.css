@@ -1,18 +1,22 @@
 p {
     font-family:courier;
-    font-size: small;
+    font-size: large;
+    color:blue;
 }
 
 body {
-    background-color: #f2f5ff;
-    font-family: times;
+    background-color: #bdedd4;
     text-align: center;
 }
 
 h1 {
-    font-family:cursive;
-    text-align:left;
+    font-family:times;
+    text-align: center;
 }
+
+
+
+
 
 
 
