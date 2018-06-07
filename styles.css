@@ -8,6 +8,7 @@ body {
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 50px;
+    border:6.5px double gray;
 }
 
 p {
@@ -19,7 +20,7 @@ p {
 h1 {
     font-family:times;
     text-align: center;
-    color:black;
+    color:#dd8102;
     padding-top: 30px;
 }
 
@@ -109,5 +110,7 @@ marquee {
     font-family: inherit;
 }
 
-
+#footer {
+    text-align: center;
+}
 
