@@ -1,0 +1,29 @@
+
+body {
+     background-image: url('http://site.xaraxone.com/tutorials/jan11/index_html_files/283.png');
+    background-repeat: repeat-y;
+    background-position: center;
+    background-size: 35%, cover;
+    text-align:center;
+}
+
+html{
+    background-image: url('http://www.thisiscolossal.com/wp-content/uploads/2016/05/kyon03.jpg');
+    background-repeat: no-repeat;
+    background-color: grey;
+    background-size: cover;
+    background-position: center;
+}
+    
+p{
+    font-family:courier;
+    font-size: medium;
+    color:purple;
+}
+
+h1 {
+    font-family: times;
+    text-align: center;
+    color:darkblue;
+}
+

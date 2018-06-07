@@ -1,22 +1,113 @@
-p {
-    font-family:courier;
-    font-size: large;
-    color:blue;
-}
 
 body {
-    background-color: #bdedd4;
-    text-align: center;
+    text-align: left;
+    background-color: #edf3fc;
+    background-repeat: repeat-y;
+    background-position: center;
+    background-size: cover;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+}
+
+p {
+    font-family:times;
+    font-size: medium;
+    color:gray;
 }
 
 h1 {
     font-family:times;
     text-align: center;
+    color:black;
+    padding-top: 30px;
 }
 
+h2 {
+    font-family:courier;
+    font-size: medium;
+    color:#444444;
+    text-align:center;
+}
 
+h3{
+    
+    color:#edf3fc;
+}
 
+html{
+    background-image: url('http://www.thisiscolossal.com/wp-content/uploads/2016/05/kyon03.jpg');
+    background-repeat: no-repeat;
+    background-color: grey;
+    background-size: cover;
+    background-position: center;
+    padding-left: 150px;
+    padding-top: 100px;
+    padding-right: 115px;
+    padding-bottom: 0px;
+}
 
+#review {
+    color:#444444;
+    font-family: times;
+    
+}
+u1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0; 
+    overflow: hidden;
+    background-color: purple;
+}
+li {
+    float: left;
+    list-style-type: none;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+li a:hover {
+    background-color: #4d4dff;
+    list-style-type: none;
+}
+
+.home {
+    background-color: orange;
+    list-style-type: none;
+}
+
+.notTheHome {
+    background-color: #8c8c8c;
+}
+
+.hotbar {
+    text-align: left;
+}
+
+#about {
+    text-align: left;
+    font-size: medium;
+    color:#444444;
+}
+
+#about2 {
+    text-align: left;
+    color:#1a45e0;
+    font-family: times;
+    font-size: large;
+}
+
+marquee {
+    font-size: larger;
+    font-family: inherit;
+}
 
 
 
