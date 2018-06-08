@@ -20,7 +20,7 @@ p {
 h1 {
     font-family:times;
     text-align: center;
-    color:#dd8102;
+    color:darkblue;
     padding-top: 30px;
 }
 
@@ -92,6 +92,10 @@ li a:hover {
     text-align: left;
 }
 
+.logo {
+    background-position: center;
+}
+
 #about {
     text-align: left;
     font-size: medium;
@@ -114,3 +118,7 @@ marquee {
     text-align: center;
 }
 
+#full {
+    text-align: left;
+    color:orange;
+}
